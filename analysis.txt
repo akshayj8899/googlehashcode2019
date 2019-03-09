@@ -1,0 +1,27 @@
+a_example.txt
+4 images
+2 horizontal
+2 vertical
+6 vocab
+
+b_lovely_landscapes.txt
+80,000 images
+All Horizontal
+840,000 vocab
+ 
+c_memorable_moments.txt
+1000 images
+500 horizontal
+500 vertical
+2,166 vocab
+
+d_pet_pictures.txt
+90,000 images
+30,000 horizontal
+60,000 vertical
+220 vocab
+
+e_shiny_selfies.txt
+80,000 images
+All Vertical
+500 vocab
